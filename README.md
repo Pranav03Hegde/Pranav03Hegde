@@ -18,7 +18,7 @@
 <a href="https://twitter.com/pranav_heg77444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav_heg77444" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranav108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranav108" height="30" width="40" /></a>
 <a href="https://instagram.com/pranav_._hegde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav_._hegde" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@pranav-unplugged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pranav-unplugged" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@pranav-unplugged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@pranav-unplugged" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

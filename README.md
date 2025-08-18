@@ -11,12 +11,12 @@
 
 - 📫 How to reach me **prannavpm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16VcGt7D_bkL10Igsune2JdZ3i9OjJqX4/view?usp=sharing](https://drive.google.com/file/d/16VcGt7D_bkL10Igsune2JdZ3i9OjJqX4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16VcGt7D_bkL10Igsune2JdZ3i9OjJqX4/view?usp=drive_link](https://drive.google.com/file/d/16VcGt7D_bkL10Igsune2JdZ3i9OjJqX4/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pranav_heg77444" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranav_heg77444" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/http://www.linkedin.com/in/pranav108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/pranav108" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/pranav_._hegde/?__pwa=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pranav_._hegde/?__pwa=1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@pranav-unplugged" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@pranav-unplugged" height="30" width="40" /></a>
 </p>
@@ -27,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav03hegde&show_icons=true&locale=en&layout=compact" alt="pranav03hegde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav03hegde&show_icons=true&locale=en" alt="pranav03hegde" /></p>
-
